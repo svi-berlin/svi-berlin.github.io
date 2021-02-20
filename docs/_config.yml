@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Abschied von Yangon
+email: sviii@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Samstag, 20 Februar 2021, um 12:37 Uhr: Mein Blick vom Balkon unserer Wohnung 
+  in der achten Etage auf die Pyay Road, eine der wichtigsten Verkehrsadern der 
+  Stadt, über die seit dem 1. Februar mehrmals täglich Militärfahrzeuge fahren.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
