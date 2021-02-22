@@ -4,5 +4,5 @@ permalink: /
 
 
 
-![image](/assets/img/___EuaOQndVEAYukjO.jpeg)
+![image]({{site.url}}/assets/img/___EuaOQndVEAYukjO.jpeg)
 
