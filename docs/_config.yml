@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Samstag, 20 Februar 2021, um 12:37 Uhr: Mein Blick vom Balkon unserer Wohnung 
   in der achten Etage auf die Pyay Road, eine der wichtigsten Verkehrsadern der 
   Stadt, über die seit dem 1. Februar mehrmals täglich Militärfahrzeuge fahren.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://svi-berlin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
