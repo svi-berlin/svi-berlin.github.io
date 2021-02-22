@@ -4,5 +4,5 @@ permalink: /
 
 
 
-![image](https://github.com/svi-berlin/svi-berlin.github.io/blob/main/docs/assets/img/__0__.jpeg)
+<img src="/assets/img/__0__.jpeg">
 
