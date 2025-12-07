@@ -1,8 +1,6 @@
 layout: page
-title: "Yangon"
-permalink: /
+title: "silence is golden"
 
-![image](assets/img/__0__.jpeg)
 
 
 
